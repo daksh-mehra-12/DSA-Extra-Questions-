@@ -35,6 +35,9 @@ The repository will be continuously updated as I learn and solve more problems.
 - Number Logic
 - Number Theory
 - Patterns
+    -Easy
+    -Medium
+    -Hard
 - Functions & Methods
 
 ### 🔵 Data Structures
