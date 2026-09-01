@@ -39,6 +39,7 @@ The repository will be continuously updated as I learn and solve more problems.
     -Medium
     -Hard
 - Functions & Methods
+- Time & Space Complexity
 
 ### 🔵 Data Structures
 
